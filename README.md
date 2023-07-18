@@ -1,4 +1,4 @@
-# coin-hunt
+# Coin Hunt
 Term project of my Multimedia Systems university pregraduate class. The project is a simple 3D obstacle avoiding game made with Unity.
 
 The exe file is located in the Builds folder and is named Coin Hunt.exe. The following is an in-game screenshot:
